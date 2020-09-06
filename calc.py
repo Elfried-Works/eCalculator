@@ -2,7 +2,7 @@
 #Script Name : Calculator
 #Author : Elfried (Viper75)
 #Version : 1.0.0
-#Downloads : www.elfriedworks.go.yo.fr
+#Downloads : https://github.com/Elfried-Works/eCalculator/
 
 
 from tkinter import *
